@@ -1,0 +1,6 @@
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\bin\Debug\ToDoList.Models.dll
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\bin\Debug\ToDoList.Models.pdb
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\obj\Debug\ToDoList.Models.csproj.AssemblyReference.cache
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\obj\Debug\ToDoList.Models.csproj.CoreCompileInputs.cache
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\obj\Debug\ToDoList.Models.dll
+D:\api\todolistapi\ToDoListSolution\ToDoList.Models\obj\Debug\ToDoList.Models.pdb
